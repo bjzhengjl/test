@@ -47,3 +47,11 @@ profile
 *.lai
 *.la
 *.a
+
+
+
+# Mac system file
+.DS_Store
+
+# SVN folder
+.svn/
